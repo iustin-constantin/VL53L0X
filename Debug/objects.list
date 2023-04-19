@@ -1,0 +1,7 @@
+"./Src/I2c.o"
+"./Src/VL53L0X.o"
+"./Src/delay.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f031k6tx.o"

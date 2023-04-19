@@ -1,0 +1,5 @@
+I2c.c:9:6:I2c_vInit	8	static
+I2c.c:27:6:I2c_vStart	8	static
+I2c.c:36:6:I2c_vStop	8	static
+I2c.c:49:9:I2c_vRead	16	static
+I2c.c:76:9:I2c_vWrite	16	static
